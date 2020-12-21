@@ -19,7 +19,7 @@ const Award = () => {
             
                 <img className="img-fluid" src={awardRecive} alt="" />
 
-                <p>Government of India has awarded the "National Energy Conservation Award 2018". Mr. G. Selvaraj, Joint Managing Director of C.R.I. Group received the award from Smt. Sumitra Mahajan, Speaker of Lok Sabha & Shri. Raj Kumar Singh, Honorable Minister of State.</p>
+                <p>Government of India has awarded the <strong>"National Energy Conservation Award 2018."</strong> Mr. G. Selvaraj, Joint Managing Director of C.R.I. Group received the award from Smt. Sumitra Mahajan, Speaker of Lok Sabha & Shri. Raj Kumar Singh, Honorable Minister of State.</p>
             </div>
 
         </main>

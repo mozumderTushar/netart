@@ -1,5 +1,8 @@
 body{
   margin: 0;
   padding:0;
-  
+}
+
+.app{
+  background: linear-gradient(to bottom right, #FFFEF0 , #FFF9BB);
 }
